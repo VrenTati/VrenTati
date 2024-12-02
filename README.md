@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a 3rd year student majoring in software engineering.<br>🌱 I’m currently learning Spring/Django<br>⚡ I have many interests and am always ready to learn new 
+🔭 I am a 3rd year student majoring in software engineering.<br>⚡ I have many interests and am always ready to learn new 
 
 
 ## 🌐 Socials:
