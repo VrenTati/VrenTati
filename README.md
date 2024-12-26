@@ -1,9 +1,9 @@
 #   About Me:
-🔭 Looking to collaborate on:
+# 🔭 Looking to collaborate on:
 - High-load systems focused on scalability.
 - AI/ML directions for automating business processes.
 
-#💫 Looking for help with:
+# 💫 Looking for help with:
 - Deepening knowledge in DevOps (Kubernetes, CI/CD).
 - Improving large data integrations.
 
