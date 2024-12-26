@@ -3,16 +3,16 @@
 - High-load systems focused on scalability.
 - AI/ML directions for automating business processes.
 
-💫 Looking for help with:
+#💫 Looking for help with:
 - Deepening knowledge in DevOps (Kubernetes, CI/CD).
 - Improving large data integrations.
 
-  Currently learning 🌱:
+#  Currently learning 🌱:
 - Containerization with Docker.
 - Creating and managing Kubernetes clusters.
 - Backend service optimization techniques.
 
-Ask me about 💬:
+# Ask me about 💬:
 - How to optimize REST APIs for high traffic.
 - Implementing OpenAI API in real-world projects.
 - Integrating Telegram API.
